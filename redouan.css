@@ -1,0 +1,49 @@
+body 		{
+			background-image: url('http://ilovehdwallpapers.com/wallpapers//red-planet-snow-fantasy-stars-night-stones-4k-moon-mountains-x.jpg');
+			color: white;
+			background-attachment: fixed; 
+			}
+
+p.tekst 	{
+			text-align: center;
+			}
+
+h1.groot    {
+	        text-align: center;
+	        font-size: 120px;
+}
+
+h1.tekst    {
+	        text-align: center;
+
+}
+
+ul.tekst    {
+            text-align: center;
+}
+
+li.tekst    {
+	        text-align: center;
+}
+
+#tekstvak	{
+			width: 1200px;
+			margin: 0 auto 0 auto;
+			background-color: rgba(0,0,0,0.5);
+			}
+
+img {
+    display: block;
+    margin: auto;
+    width: 300px;
+
+}
+li {
+		list-style: none;
+		}
+
+img.lol{
+		height: 1px;
+		width:  1px;
+}
+
